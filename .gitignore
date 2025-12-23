@@ -1,0 +1,26 @@
+## -----
+#
+.DS_Store
+
+#
+*.png
+*.npz
+*.npy
+
+vis/
+
+/dataset/*/
+!/dataset/cleaning/
+
+*.json
+
+#
+__pycache__/
+
+## -----
+/checkpoints/*
+!.gitkeep
+*.pth
+
+/data
+~/
