@@ -22,5 +22,4 @@ __pycache__/
 !.gitkeep
 *.pth
 
-/data
 ~/
